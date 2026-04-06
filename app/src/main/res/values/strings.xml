@@ -1,3 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab3</string>
+
+    <string name="app_name">30 Days of Programming</string>
+    <string name="day">Day %1$d</string>
+
+    <string name="tip1_title">Code every day</string>
+    <string name="tip1_desc">Practice is the key</string>
+    <string name="tip1_full">Regular practice is the foundation of successful programming learning and skill development. Even if you only have twenty or thirty minutes a day, it is important to use this time effectively. Solve problems, learn new topics, or review previously studied material to reinforce your knowledge. Over time, you will begin to better understand program logic and write code faster. The key is to avoid long breaks and maintain consistency.</string>
+
+    <string name="tip2_title">Learn Git</string>
+    <string name="tip2_desc">Version control is important</string>
+    <string name="tip2_full">Git is one of the most important tools for modern developers and is used in almost all projects. It allows you to track changes in your code and return to previous versions if needed. It is also very convenient for teamwork and helps avoid conflicts during collaboration. By mastering Git, you can safely experiment with your code and try new solutions. This is one of the essential skills for any professional developer.</string>
+
+    <string name="tip3_title">Read other people\'s code</string>
+    <string name="tip3_desc">Learn from others</string>
+    <string name="tip3_full">Reading other people\'s code helps significantly speed up the learning process and skill development. You start to see different approaches to solving the same problems. This expands your thinking and helps you better understand program structure. By analyzing other developers projects, you can learn many useful techniques. Over time, you will begin to apply best practices in your own work.</string>
+
+    <string name="tip4_title">Write clean code</string>
+    <string name="tip4_desc">Keep your code readable</string>
+    <string name="tip4_full">Clean code makes programs easier to understand, maintain, and develop further. Using clear variable and function names greatly improves readability. You should avoid unnecessary complexity and code duplication. Always write code so that another developer can understand it easily. This is especially important in teamwork and large projects.</string>
+
+    <string name="tip5_title">Use comments</string>
+    <string name="tip5_desc">Explain complex logic</string>
+    <string name="tip5_full">Comments help explain complex parts of the code and make programs more understandable for others. They are especially useful where the logic is not obvious at first glance. However, you should not comment every single line if it is already clear. Good code should be readable even without comments. Use comments only when they are truly necessary.</string>
+
+    <string name="tip6_title">Debug your code</string>
+    <string name="tip6_desc">Fix errors effectively</string>
+    <string name="tip6_full">Debugging is an essential skill that every programmer must develop. Errors are inevitable in the coding process, and that is completely normal. It is important to quickly identify the cause of problems and fix them. Using debugging tools and carefully analyzing program behavior makes this process easier. Over time, you will become faster and more efficient at fixing bugs.</string>
+
+    <string name="tip7_title">Break tasks down</string>
+    <string name="tip7_desc">Solve step by step</string>
+    <string name="tip7_full">Complex tasks are much easier to solve when broken down into smaller, manageable parts. This approach allows you to focus on one problem at a time without being overwhelmed. Each part can be implemented and tested separately. This reduces errors and makes development more structured. In the end, the whole task becomes clearer and easier to complete.</string>
+
+    <string name="tip8_title">Learn algorithms</string>
+    <string name="tip8_desc">The foundation of programming</string>
+    <string name="tip8_full">Algorithms are the foundation of programming and help solve problems efficiently. Understanding algorithms allows you to write faster and more optimized code. This is especially important when working with large amounts of data. Knowledge of algorithms also helps you better understand how programs work. Over time, you will learn to choose the most effective solutions.</string>
+
+    <string name="tip9_title">Learn data structures</string>
+    <string name="tip9_desc">Important basics</string>
+    <string name="tip9_full">Data structures play a key role in programming and data organization. They allow you to store, process, and retrieve information efficiently. Different tasks require different data structures. It is important to understand which structure to use in each situation. This makes your programs more efficient and reliable.</string>
+
+    <string name="tip10_title">Build projects</string>
+    <string name="tip10_desc">Practice matters more than theory</string>
+    <string name="tip10_full">Building small projects is a great way to reinforce your knowledge. Theory alone is rarely effective without practice. By working on projects, you learn how to apply your skills in real situations. This helps you understand concepts faster and see real results. Even simple projects provide valuable experience.</string>
+
+    <string name="tip11_title">Do not fear mistakes</string>
+    <string name="tip11_desc">It is part of learning</string>
+    <string name="tip11_full">Mistakes are a natural part of learning programming. Every developer faces them regardless of experience level. It is important not to be afraid of mistakes but to learn from them. By analyzing errors, you better understand how your program works. Over time, you will make fewer mistakes.</string>
+
+    <string name="tip12_title">Read documentation</string>
+    <string name="tip12_desc">Save your time</string>
+    <string name="tip12_full">Documentation is one of the most reliable sources of information for developers. It provides accurate and up-to-date details about technologies and tools. Reading documentation helps you understand how things work at a deeper level. This allows you to avoid many common mistakes. Get used to using documentation regularly.</string>
+
+    <string name="tip13_title">Search for information</string>
+    <string name="tip13_desc">Use the internet</string>
+    <string name="tip13_full">The ability to search for information online is an essential skill for programmers. Most problems have already been solved by someone else. It is important to formulate your search queries correctly. Using English greatly increases the number of results. This helps you find solutions faster.</string>
+
+    <string name="tip14_title">Master your IDE</string>
+    <string name="tip14_desc">Work faster</string>
+    <string name="tip14_full">Modern development environments greatly simplify programming. They provide autocomplete, syntax highlighting, and many other useful features. Mastering these tools increases your efficiency. It saves time and helps avoid errors. Your workflow becomes more comfortable and productive.</string>
+
+    <string name="tip15_title">Read error messages</string>
+    <string name="tip15_desc">They help you</string>
+    <string name="tip15_full">Error messages contain important information about problems in your code. They often point to the exact location of the issue. It is important to read and analyze them carefully. This helps you find and fix problems faster. Ignoring errors only makes development harder.</string>
+
+    <string name="tip16_title">Plan your code</string>
+    <string name="tip16_desc">Think first</string>
+    <string name="tip16_full">Planning before writing code helps avoid many problems. It allows you to think through the structure of your program in advance. Breaking tasks into steps makes the process clearer. This reduces errors and rework. As a result, your code becomes more reliable and structured.</string>
+
+    <string name="tip17_title">Learn OOP</string>
+    <string name="tip17_desc">Structure your code</string>
+    <string name="tip17_full">Object-oriented programming helps structure code effectively. Using classes and objects makes programs easier to understand. It simplifies maintenance and expansion of projects. Code becomes more flexible and reusable. This is an essential concept in modern development.</string>
+
+    <string name="tip18_title">Write tests</string>
+    <string name="tip18_desc">Check your code</string>
+    <string name="tip18_full">Testing helps ensure that your program works correctly. It allows you to detect errors at an early stage. Testing is especially important in large projects. Writing tests makes your code more reliable. This improves overall software quality.</string>
+
+    <string name="tip19_title">Work with APIs</string>
+    <string name="tip19_desc">Connect with services</string>
+    <string name="tip19_full">Working with APIs is an important part of modern applications. APIs allow systems to exchange data with each other. This enables integration with external services. Understanding APIs is essential for developers. It greatly expands application capabilities.</string>
+
+    <string name="tip20_title">Learn from others</string>
+    <string name="tip20_desc">Teamwork matters</string>
+    <string name="tip20_full">Working in a team helps you grow faster as a developer. You can learn from more experienced colleagues. Discussing solutions leads to better approaches. It is important to share your knowledge with others. This improves overall team performance.</string>
+
+    <string name="tip21_title">Use StackOverflow</string>
+    <string name="tip21_desc">Find answers</string>
+    <string name="tip21_full">Stack Overflow is a popular resource among developers. It contains answers to most programming questions. However, it is important to understand solutions instead of copying them blindly. Analyzing code helps you learn better. This speeds up your development process.</string>
+
+    <string name="tip22_title">Use clear names</string>
+    <string name="tip22_desc">Readable code</string>
+    <string name="tip22_full">Clear variable and function names make your code easier to read. Names should reflect the purpose of the code. Avoid abbreviations and unclear naming. This simplifies understanding of your program. It is especially important in large projects.</string>
+
+    <string name="tip23_title">Learn design patterns</string>
+    <string name="tip23_desc">Reusable solutions</string>
+    <string name="tip23_full">Design patterns are proven solutions to common problems. They simplify software development and architecture. Using patterns makes your code more organized and maintainable. It is a professional approach to coding. Learning patterns is an important step in growth.</string>
+
+    <string name="tip24_title">Optimize your code</string>
+    <string name="tip24_desc">Make it faster</string>
+    <string name="tip24_full">Code optimization is important but should not be the first priority. First, make your code work correctly. After that, improve its performance. Premature optimization can lead to unnecessary complexity. It is important to balance simplicity and efficiency.</string>
+
+    <string name="tip25_title">Work with databases</string>
+    <string name="tip25_desc">Store data</string>
+    <string name="tip25_full">Databases are used to store and process information. They are an essential part of most applications. Understanding how databases work is important for developers. This allows you to build full-featured systems. Data handling becomes more efficient.</string>
+
+    <string name="tip26_title">Keep learning</string>
+    <string name="tip26_desc">Stay updated</string>
+    <string name="tip26_full">Technology is constantly evolving, and developers must keep learning. It is important to explore new tools and approaches regularly. This helps you stay competitive in the field. Reading articles and taking courses accelerates growth. Learning should be a continuous process.</string>
+
+    <string name="tip27_title">Do not give up</string>
+    <string name="tip27_desc">Stay persistent</string>
+    <string name="tip27_full">Persistence is key in learning programming. Sometimes tasks may seem too difficult. It is important not to give up and keep trying. Eventually, you will find a solution. This mindset helps develop strong skills.</string>
+
+    <string name="tip28_title">Take breaks</string>
+    <string name="tip28_desc">Rest is important</string>
+    <string name="tip28_full">Regular breaks help maintain focus and avoid burnout. Working continuously without rest reduces productivity. Short pauses allow your brain to recover. This improves the quality of your work. A balance between work and rest is essential.</string>
+
+    <string name="tip29_title">Build a portfolio</string>
+    <string name="tip29_desc">Show your work</string>
+    <string name="tip29_full">A portfolio is an important tool when looking for a job. It demonstrates your skills and experience. Add your projects and achievements to it. Employers evaluate real examples of your work. A strong portfolio increases your chances of success.</string>
+
+    <string name="tip30_title">Create your own project</string>
+    <string name="tip30_desc">Final step</string>
+    <string name="tip30_full">Creating your own project is the best way to reinforce your knowledge. You face real challenges and learn how to solve them. This helps you understand development deeply. Completing a project gives a sense of achievement. It makes you a more confident developer.</string>
+
 </resources>
